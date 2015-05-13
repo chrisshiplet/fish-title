@@ -15,3 +15,4 @@ Set custom iTerm 2 titles in fish
 
 * Use `cht "new title goes here"` to change the title.
 * Use `chtc 255 255 255` or `chtc ffffff` to change the tab color.
+* Use `chtc` by itself to reset the tab color to default.
