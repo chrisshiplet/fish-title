@@ -1,6 +1,10 @@
 # fish-title
 Set custom iTerm 2 titles in fish
 
+### Screenshot
+
+![screenshot](http://i.imgur.com/oFDh9kw.png)
+
 ### Installing
 
 1. `git clone https://github.com/nearengine/fish-title.git; cd fish-title`
